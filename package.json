@@ -1,0 +1,8 @@
+{
+  "name": "api-authentication-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:CleytonRR/api-authentication-typescript.git",
+  "author": "cleytonRR <cleytonrodrigues69@live.com>",
+  "license": "MIT"
+}
