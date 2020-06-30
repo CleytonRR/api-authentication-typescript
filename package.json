@@ -5,6 +5,9 @@
   "repository": "git@github.com:CleytonRR/api-authentication-typescript.git",
   "author": "cleytonRR <cleytonrodrigues69@live.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "npx nodemon --exec ts-node src/index.ts"
+  },
   "devDependencies": {
     "nodemon": "^2.0.4",
     "ts-node": "^8.10.2",
